@@ -6,7 +6,7 @@
 | Instructor: | Corin Chepko |
 | Mav Username: | akjacobson |
 | GitHub Username: | aujacobs |
-| Repository | https://github.com/aujacobs/CS0-ajacobsonFall2024 |
+| Repository | [here](https://github.com/aujacobs/CS0-ajacobsonFall2024) |
 
 _______________________________________________________________________________________________________________
 
@@ -18,5 +18,5 @@ ________________________________________________________________________________
 | Description: | "ANSCII Art" |
 | Due Date: | 9/5/24 |
 | Status: | In Progress |
-| Location: | [https://github.com/cchepko2/CS0-cchepko2/tree/main/labs/anscii_art](https://github.com/aujacobs/CS0-ajacobsonFall2024/blob/main/ascii/main.py) |
+| Location: | [here](https://github.com/aujacobs/CS0-ajacobsonFall2024/blob/main/ascii/main.py) |
 | Notes: | ( ͡° ͜ʖ ͡°) |
