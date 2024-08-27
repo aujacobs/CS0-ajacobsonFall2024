@@ -14,9 +14,9 @@
 
 print("Welcome to ASCII Art Program...\n")
 name = "Austin"
-print("Nice meeting you" (name) "!") 
-# FIXME4: greet the name using the variable as the following output
-# must output: Nice meeting you, <name>!
+print("Nice meeting you", (name), "!\n") 
+#fixed#
+#fixed#
 
 # prompt user to enter the semester and store the value into semester variable using input function
 semester: str = input("What semester is this?")
