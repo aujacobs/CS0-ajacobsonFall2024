@@ -14,11 +14,12 @@
 
 print("Welcome to ASCII Art Program...\n")
 name = "Austin"
-print("Nice meeting you", (name), "!\n") 
+print("Nice meeting you"+ (name)+ "!\n") 
 #fixed#
 #fixed#
 
 # prompt user to enter the semester and store the value into semester variable using input function
+semester = "Fall"
 semester: str = input("What semester is this?")
 print("This is the" + semester + " semester.\n")
 
