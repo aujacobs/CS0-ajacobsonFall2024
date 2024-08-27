@@ -1,5 +1,6 @@
 # CS0-ajacobsonFall2024
 
+## Basic Info
 | Course: | CSCI110 & 110L |
 | Semester: | Fall 2024 |
 | Instructor: | Corin Chepko |
