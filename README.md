@@ -1,7 +1,7 @@
 # CS0-ajacobsonFall2024
 
-### Course: CSCI110 & 110L
-### Semester: Fall 2024 
+<br>Course: CSCI110 & 110L
+Semester: Fall 2024 
 Instructor: Corin Chepko
 Mav Username: akjacobson
 GitHub Username: aujacobs
