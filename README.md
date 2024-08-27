@@ -1,5 +1,5 @@
 # CS0-ajacobsonFall2024
-<br>Course: CSCI110 & 110L
+Course: CSCI110 & 110L
 <br>Semester: Fall 2024 
 <br>Instructor: Corin Chepko
 <br>Mav Username: akjacobson
