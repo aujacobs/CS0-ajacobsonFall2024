@@ -5,10 +5,10 @@ Course: CSCI110 & 110L
 <br>Mav Username: akjacobson
 <br>GitHub Username: aujacobs
 <br>Repository: [here](https://github.com/aujacobs/CS0-ajacobsonFall2024)
-_______________________________________________________________________________________________________________
+
 # LABS
 ## Lab #1: StdIO
-<br>Name: | ASCII Art |
+Name: | ASCII Art |
 <br>Description: "ANSCII Art"
 <br>Due Date: 9/5/24
 <br>Status: In Progress
