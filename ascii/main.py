@@ -11,31 +11,52 @@
     1. Use variables to store data/values
     2. Write a series of print statements to print the data/values to the console
 """
-
 print("Welcome to ASCII Art Program...\n")
-name = "Austin"
-print("Nice meeting you"+ (name)+ "!\n") 
+name="Austin"
+print("Nice meeting you",(name)+"!\n") 
+
 #fixed#
 #fixed#
+#prompt user to enter the semester and store the value into semester variable using input function
 
-# prompt user to enter the semester and store the value into semester variable using input function
-semester = "Fall"
-semester: str = input("What semester is this?")
-print("This is the" + semester + " semester.\n")
+semester=input("What semester is this?\n\n")
+print("\nThis is the" , semester + " semester.\n")
 
-# FIXME5: prompt user to enter the year and store the value into year variable using input function
-# FIXME6: print the year using the variable as the following output
-# must output: This is <year> year.
+#fixed#
+#fixed#
+#must output: This is <year> year.
+
+year=input("What year is it?\n\n")
+print("\nThis is", year + " year.\n")
 
 print("Hope you like my ASCII art...\n\n")
 
-line1: str = "  |\\_/|   **********************    (\\_/)\n"
-print(line1)
+line1="  |\\_/|   **********************    (\\_/)"
+line2=" /@   @\\  *      ASCII Lab     *   (='.'=)"
+line3="( > 0 < ) *   Austin Jacobson  *   (\")_(\")"
+line4=" >> x <<  *      CSCI 110      *"
+line5="/   O  \\  **********************\n"
+line6="pianooo\n"
+line7=" _______________________________________________"
+line8="|| | | ||| | ||| | | ||| | ||| | | ||| | ||| | ||"
+line9="||_|_|_|||_|_|||_|_|_|||_|_|||_|_|_|||_|_|||_|_||"
+line10="| | | | | | | | | | | | | | | | | | | | | | | | |"
+linefinal="|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|"
 
-# FIXME7: use variable to print the second line of the graphic
-# FIXME8: print the third line of the graphics
-# FIXME9: use variable to print the fourth line
-# FIXME10: use variable to print the fifth line
-# Note: You can add more lines or print more ASCII arts of your choice if you'd like...
+print(line1)
+print(line2)
+print(line3)
+print(line4)
+print(line5)
+print(line6)
+print(line7)
+print(line8)
+print(line9)
+print(line10)
+print(linefinal)
+#fixed#
+#fixed#
+#fixed#
+#fixed#
 
 print("\nGood bye...  \n")
