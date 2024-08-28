@@ -10,6 +10,6 @@ Course: CSCI110 & 110L
 ## Lab #1: StdIO
 <br>Description: "ANSCII Art"
 <br>Due Date: 9/5/24
-<br>Status: In Progress
+<br>Status: Complete
 <br>Location: [here](https://github.com/aujacobs/CS0-ajacobsonFall2024/blob/main/ascii/main.py)
 <br>Notes: ( ͡° ͜ʖ ͡°)
