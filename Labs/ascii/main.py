@@ -54,9 +54,11 @@ print(line8)
 print(line9)
 print(line10)
 print(linefinal)
+
 #fixed#
 #fixed#
 #fixed#
 #fixed#
+# Note: You can add more lines or print more ASCII arts of your choice
 
 print("\nGood bye...  \n")
