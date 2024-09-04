@@ -18,7 +18,7 @@ Course: CSCI110 & 110L
 <br>Description: "Add two numbers"
 <br>Due Date: 9/12/24
 <br>Status: In Progress
-<br>Location: [here]()
+<br>Location: [here](https://github.com/aujacobs/CS0-ajacobsonFall2024/blob/main/Labs/math/main.py)
 <br>Notes:
 
 ## Lab #2b: Circle
