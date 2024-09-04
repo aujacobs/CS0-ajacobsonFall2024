@@ -11,5 +11,19 @@ Course: CSCI110 & 110L
 <br>Description: "ASCII Art"
 <br>Due Date: 9/5/24
 <br>Status: Complete
-<br>Location: [here](https://github.com/aujacobs/CS0-ajacobsonFall2024/blob/main/ascii/main.py)
+<br>Location: [here]()
+<br>Notes: ( ͡° ͜ʖ ͡°)
+
+## Lab #2a: Math
+<br>Description: "Add two numbers"
+<br>Due Date: 9/12/24
+<br>Status: In Progress
+<br>Location: [here]()
+<br>Notes:
+
+## Lab #2b: Circle
+<br>Description: "Radius and circumference"
+<br>Due Date: 9/12/24
+<br>Status: In Progress
+<br>Location: [here]()
 <br>Notes: ( ͡° ͜ʖ ͡°)
