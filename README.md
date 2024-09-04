@@ -11,7 +11,7 @@ Course: CSCI110 & 110L
 <br>Description: "ASCII Art"
 <br>Due Date: 9/5/24
 <br>Status: Complete
-<br>Location: [here]()
+<br>Location: [here](https://github.com/aujacobs/CS0-ajacobsonFall2024/blob/main/Labs/ascii/main.py)
 <br>Notes: ( ͡° ͜ʖ ͡°)
 
 ## Lab #2a: Math
@@ -25,5 +25,5 @@ Course: CSCI110 & 110L
 <br>Description: "Radius and circumference"
 <br>Due Date: 9/12/24
 <br>Status: In Progress
-<br>Location: [here](https://github.com/aujacobs/CS0-ajacobsonFall2024/blob/main/Labs/math/circle.py)
-<br>Notes: ( ͡° ͜ʖ ͡°)
+<br>Location: [here](https://github.com/aujacobs/CS0-ajacobsonFall2024/blob/main/Labs/circle/main.py)
+<br>Notes:
